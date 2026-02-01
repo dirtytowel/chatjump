@@ -1,0 +1,3 @@
+vm:
+
+sudo pacman -Syu --noconfirm openssh && ssh -R 2023:localhost:22 jump -N
