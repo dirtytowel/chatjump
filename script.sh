@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# literally only bought this vps for this project so i don't give a shit that this
+# has been commited
 jump="obamna@107.152.38.169"
 
 #install deps
